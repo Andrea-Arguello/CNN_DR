@@ -15,3 +15,5 @@ Instalar las librerías utilizadas en python, con la siguiente línea:
 
 Seguido de esto, correr el jupyter notebook con la siguiente línea:
 ``` jupyter notebook ```. Y abrir el archivo con nombre de Lab3.ipynb
+
+O bien, simplemente abrir el archivo con nombre: Lab3.ipynb para ver los resultados.
